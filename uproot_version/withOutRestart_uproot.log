@@ -1,0 +1,331 @@
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39331 instead
+  warnings.warn(
+  0%|          | 0/92 [00:00<?, ?it/s]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.70 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  1%|          | 1/92 [00:16<25:08, 16.58s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.30 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  2%|▏         | 2/92 [00:26<19:24, 12.94s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.03 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  3%|▎         | 3/92 [00:34<15:28, 10.43s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 21.53 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  4%|▍         | 4/92 [00:42<13:52,  9.46s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.40 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  5%|▌         | 5/92 [00:50<13:11,  9.10s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 21.66 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  7%|▋         | 6/92 [00:58<12:27,  8.69s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.83 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  8%|▊         | 7/92 [01:06<11:50,  8.36s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 32.91 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  9%|▊         | 8/92 [01:17<13:05,  9.35s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 24.67 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 10%|▉         | 9/92 [01:36<17:08, 12.39s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.45 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 11%|█         | 10/92 [01:47<16:00, 11.72s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.54 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 12%|█▏        | 11/92 [01:55<14:29, 10.74s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 26.78 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 13%|█▎        | 12/92 [02:03<13:02,  9.78s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 35.41 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 14%|█▍        | 13/92 [02:11<12:12,  9.28s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 35.12 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 15%|█▌        | 14/92 [02:22<12:42,  9.78s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.67 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 16%|█▋        | 15/92 [02:30<11:56,  9.31s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.84 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 17%|█▋        | 16/92 [02:40<12:03,  9.52s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.30 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 18%|█▊        | 17/92 [02:48<11:19,  9.06s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.87 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 20%|█▉        | 18/92 [02:57<11:04,  8.98s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 18.66 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 21%|██        | 19/92 [03:05<10:30,  8.64s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.89 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 22%|██▏       | 20/92 [03:13<10:12,  8.51s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.76 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 23%|██▎       | 21/92 [03:23<10:32,  8.90s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.97 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 24%|██▍       | 22/92 [03:32<10:22,  8.89s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.93 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 25%|██▌       | 23/92 [03:42<10:44,  9.34s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.61 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 26%|██▌       | 24/92 [03:51<10:22,  9.16s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.27 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 27%|██▋       | 25/92 [03:58<09:43,  8.71s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.11 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 28%|██▊       | 26/92 [04:08<09:50,  8.94s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.83 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 29%|██▉       | 27/92 [04:17<09:38,  8.90s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.87 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 30%|███       | 28/92 [04:28<10:19,  9.68s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.76 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 32%|███▏      | 29/92 [04:41<11:06, 10.58s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.57 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 33%|███▎      | 30/92 [04:57<12:33, 12.15s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.95 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 34%|███▎      | 31/92 [05:04<10:44, 10.56s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.00 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:26:20,180 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 504.96 MiB -- Worker memory limit: 716.80 MiB
+ 35%|███▍      | 32/92 [05:15<10:54, 10.90s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.10 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 36%|███▌      | 33/92 [05:22<09:30,  9.68s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.97 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:26:36,296 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 503.19 MiB -- Worker memory limit: 716.80 MiB
+ 37%|███▋      | 34/92 [05:31<09:14,  9.56s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 40.15 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 38%|███▊      | 35/92 [05:40<08:44,  9.20s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 30.80 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:26:54,496 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 508.18 MiB -- Worker memory limit: 716.80 MiB
+ 39%|███▉      | 36/92 [05:50<08:46,  9.40s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.40 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 40%|████      | 37/92 [05:57<07:57,  8.69s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 29.06 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:27:07,878 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 509.96 MiB -- Worker memory limit: 716.80 MiB
+ 41%|████▏     | 38/92 [06:08<08:28,  9.41s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 25.95 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:27:18,987 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 506.41 MiB -- Worker memory limit: 716.80 MiB
+ 42%|████▏     | 39/92 [06:14<07:29,  8.49s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.41 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 43%|████▎     | 40/92 [06:22<07:19,  8.45s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.25 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:27:34,193 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 522.66 MiB -- Worker memory limit: 716.80 MiB
+ 45%|████▍     | 41/92 [06:34<07:52,  9.27s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.52 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:27:44,277 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 501.77 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:27:46,092 - distributed.worker.memory - WARNING - Worker is at 81% memory usage. Pausing worker.  Process memory: 587.18 MiB -- Worker memory limit: 716.80 MiB
+ 46%|████▌     | 42/92 [06:41<07:18,  8.76s/it]2024-03-21 17:27:46,177 - distributed.worker.memory - WARNING - Worker is at 70% memory usage. Resuming worker. Process memory: 504.34 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 43.20 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:27:54,349 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 536.61 MiB -- Worker memory limit: 716.80 MiB
+ 47%|████▋     | 43/92 [06:54<08:12, 10.04s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.26 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:28:04,378 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 515.84 MiB -- Worker memory limit: 716.80 MiB
+ 48%|████▊     | 44/92 [07:01<07:20,  9.18s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 22.55 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 49%|████▉     | 45/92 [07:08<06:37,  8.46s/it]2024-03-21 17:28:14,479 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 508.01 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 22.62 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 50%|█████     | 46/92 [07:19<07:00,  9.14s/it]2024-03-21 17:28:24,578 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 508.20 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 35.34 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:28:31,879 - distributed.worker.memory - WARNING - Worker is at 80% memory usage. Pausing worker.  Process memory: 580.35 MiB -- Worker memory limit: 716.80 MiB
+ 51%|█████     | 47/92 [07:27<06:37,  8.82s/it]2024-03-21 17:28:31,977 - distributed.worker.memory - WARNING - Worker is at 72% memory usage. Resuming worker. Process memory: 518.85 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.65 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:28:34,677 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 518.85 MiB -- Worker memory limit: 716.80 MiB
+ 52%|█████▏    | 48/92 [07:39<07:10,  9.78s/it]2024-03-21 17:28:44,778 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 527.10 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.17 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 53%|█████▎    | 49/92 [07:46<06:26,  8.98s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 29.53 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:28:54,966 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 550.96 MiB -- Worker memory limit: 716.80 MiB
+ 54%|█████▍    | 50/92 [07:54<06:07,  8.75s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 32.77 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:29:04,978 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 525.80 MiB -- Worker memory limit: 716.80 MiB
+ 55%|█████▌    | 51/92 [08:06<06:39,  9.76s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.13 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:29:15,545 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 543.12 MiB -- Worker memory limit: 716.80 MiB
+ 57%|█████▋    | 52/92 [08:13<05:52,  8.80s/it]2024-03-21 17:29:25,578 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 539.77 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:29:26,377 - distributed.worker.memory - WARNING - Worker is at 80% memory usage. Pausing worker.  Process memory: 577.96 MiB -- Worker memory limit: 716.80 MiB
+ 58%|█████▊    | 53/92 [08:21<05:39,  8.71s/it]2024-03-21 17:29:26,477 - distributed.worker.memory - WARNING - Worker is at 75% memory usage. Resuming worker. Process memory: 540.21 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 21.97 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:29:31,677 - distributed.worker.memory - WARNING - Worker is at 80% memory usage. Pausing worker.  Process memory: 580.07 MiB -- Worker memory limit: 716.80 MiB
+ 59%|█████▊    | 54/92 [08:27<04:51,  7.67s/it]2024-03-21 17:29:31,777 - distributed.worker.memory - WARNING - Worker is at 74% memory usage. Resuming worker. Process memory: 533.52 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:29:35,678 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 533.52 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 27.59 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 60%|█████▉    | 55/92 [08:39<05:36,  9.10s/it]2024-03-21 17:29:45,777 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 538.68 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 29.77 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 61%|██████    | 56/92 [08:45<04:52,  8.13s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 32.35 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:29:55,777 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 549.29 MiB -- Worker memory limit: 716.80 MiB
+ 62%|██████▏   | 57/92 [08:52<04:28,  7.67s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 30.91 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:30:05,777 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 550.03 MiB -- Worker memory limit: 716.80 MiB
+ 63%|██████▎   | 58/92 [09:10<06:13, 10.98s/it]2024-03-21 17:30:15,778 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 551.45 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 25.48 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:30:18,694 - distributed.worker.memory - WARNING - Worker is at 80% memory usage. Pausing worker.  Process memory: 574.02 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:19,307 - distributed.worker.memory - WARNING - Worker is at 76% memory usage. Resuming worker. Process memory: 550.06 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:21,183 - distributed.worker.memory - WARNING - Worker is at 80% memory usage. Pausing worker.  Process memory: 576.49 MiB -- Worker memory limit: 716.80 MiB
+ 64%|██████▍   | 59/92 [09:16<05:12,  9.47s/it]2024-03-21 17:30:21,277 - distributed.worker.memory - WARNING - Worker is at 76% memory usage. Resuming worker. Process memory: 550.72 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.99 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:30:24,351 - distributed.worker.memory - WARNING - Worker is at 80% memory usage. Pausing worker.  Process memory: 573.91 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:24,498 - distributed.worker.memory - WARNING - Worker is at 78% memory usage. Resuming worker. Process memory: 562.91 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:25,877 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 556.80 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:27,683 - distributed.worker.memory - WARNING - Worker is at 82% memory usage. Pausing worker.  Process memory: 593.60 MiB -- Worker memory limit: 716.80 MiB
+ 65%|██████▌   | 60/92 [09:23<04:34,  8.57s/it]2024-03-21 17:30:27,778 - distributed.worker.memory - WARNING - Worker is at 78% memory usage. Resuming worker. Process memory: 561.96 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 24.75 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:30:30,892 - distributed.worker.memory - WARNING - Worker is at 81% memory usage. Pausing worker.  Process memory: 583.77 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:31,577 - distributed.worker.memory - WARNING - Worker is at 78% memory usage. Resuming worker. Process memory: 560.18 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:34,499 - distributed.worker.memory - WARNING - Worker is at 81% memory usage. Pausing worker.  Process memory: 582.10 MiB -- Worker memory limit: 716.80 MiB
+ 66%|██████▋   | 61/92 [09:30<04:09,  8.05s/it]2024-03-21 17:30:34,577 - distributed.worker.memory - WARNING - Worker is at 78% memory usage. Resuming worker. Process memory: 560.25 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:35,877 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 560.25 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.80 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:30:44,459 - distributed.worker.memory - WARNING - Worker is at 81% memory usage. Pausing worker.  Process memory: 582.66 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:44,503 - distributed.worker.memory - WARNING - Worker is at 79% memory usage. Resuming worker. Process memory: 572.30 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:45,877 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 562.48 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:52,392 - distributed.worker.memory - WARNING - Worker is at 82% memory usage. Pausing worker.  Process memory: 588.68 MiB -- Worker memory limit: 716.80 MiB
+ 67%|██████▋   | 62/92 [09:47<05:30, 11.01s/it]2024-03-21 17:30:52,478 - distributed.worker.memory - WARNING - Worker is at 78% memory usage. Resuming worker. Process memory: 562.48 MiB -- Worker memory limit: 716.80 MiB
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.14 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:30:55,902 - distributed.worker.memory - WARNING - Worker is at 82% memory usage. Pausing worker.  Process memory: 587.86 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:55,902 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 587.86 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:56,578 - distributed.worker.memory - WARNING - Worker is at 78% memory usage. Resuming worker. Process memory: 565.06 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:30:59,580 - distributed.worker.memory - WARNING - Worker is at 80% memory usage. Pausing worker.  Process memory: 574.21 MiB -- Worker memory limit: 716.80 MiB
+ 68%|██████▊   | 63/92 [09:56<04:55, 10.19s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.90 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:31:05,976 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:31:15,977 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:31:25,979 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:31:36,077 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:31:46,176 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:31:56,177 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:32:06,177 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:32:16,278 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:32:26,378 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:32:36,476 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:32:46,479 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:32:56,578 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:33:06,578 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:33:16,676 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:33:26,676 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:33:36,677 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:33:46,776 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:33:56,778 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:34:06,877 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:34:16,877 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:34:26,878 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB
+2024-03-21 17:34:36,878 - distributed.worker.memory - WARNING - Unmanaged memory use is high. This may indicate a memory leak or the memory may not be released to the OS; see https://distributed.dask.org/en/latest/worker-memory.html#memory-not-released-back-to-the-os for more information. -- Unmanaged memory: 574.55 MiB -- Worker memory limit: 716.80 MiB

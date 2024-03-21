@@ -1,0 +1,745 @@
+  0%|          | 0/92 [00:00<?, ?it/s]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 34149 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.70 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  1%|          | 1/92 [00:13<20:12, 13.33s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 33425 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.30 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  2%|▏         | 2/92 [00:24<18:23, 12.26s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39205 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.03 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  3%|▎         | 3/92 [00:33<15:50, 10.68s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37985 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 21.53 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  4%|▍         | 4/92 [00:41<14:02,  9.57s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 40049 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.40 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  5%|▌         | 5/92 [00:51<13:54,  9.60s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 45225 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 21.66 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  7%|▋         | 6/92 [00:59<13:05,  9.13s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46065 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.83 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  8%|▊         | 7/92 [01:09<13:22,  9.44s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 34925 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 32.91 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+  9%|▊         | 8/92 [01:20<13:58,  9.98s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46279 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 24.67 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 10%|▉         | 9/92 [01:43<19:27, 14.06s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37341 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.45 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 11%|█         | 10/92 [02:01<20:58, 15.35s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44903 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.54 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 12%|█▏        | 11/92 [02:14<19:31, 14.46s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 33189 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 26.78 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 13%|█▎        | 12/92 [02:25<18:08, 13.61s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39403 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 35.41 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 14%|█▍        | 13/92 [02:34<15:53, 12.06s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44497 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 35.12 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 15%|█▌        | 14/92 [02:45<15:20, 11.80s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44277 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.67 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 16%|█▋        | 15/92 [02:58<15:31, 12.09s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 43155 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.84 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 17%|█▋        | 16/92 [03:09<14:44, 11.63s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39791 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.30 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 18%|█▊        | 17/92 [03:20<14:26, 11.55s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35177 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.87 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 20%|█▉        | 18/92 [03:30<13:41, 11.10s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35861 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 18.66 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 21%|██        | 19/92 [03:39<12:53, 10.59s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 45409 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.89 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 22%|██▏       | 20/92 [03:47<11:33,  9.63s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44509 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.76 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 23%|██▎       | 21/92 [04:00<12:38, 10.68s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 38345 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.97 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 24%|██▍       | 22/92 [04:09<11:51, 10.16s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39013 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.93 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 25%|██▌       | 23/92 [04:22<12:47, 11.12s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 42769 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.61 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 26%|██▌       | 24/92 [04:37<13:53, 12.26s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36929 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.27 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 27%|██▋       | 25/92 [04:50<13:57, 12.50s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 45983 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.11 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 28%|██▊       | 26/92 [04:58<12:21, 11.24s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 34759 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.83 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 29%|██▉       | 27/92 [05:07<11:22, 10.50s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39211 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.87 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 30%|███       | 28/92 [05:22<12:27, 11.68s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 33849 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.76 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 32%|███▏      | 29/92 [05:32<11:55, 11.36s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46057 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.57 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 33%|███▎      | 30/92 [05:51<14:00, 13.55s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37183 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.95 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 34%|███▎      | 31/92 [06:00<12:29, 12.28s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46739 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.00 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 35%|███▍      | 32/92 [06:19<14:11, 14.19s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 33223 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.10 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 36%|███▌      | 33/92 [06:27<12:10, 12.38s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36349 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.97 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 37%|███▋      | 34/92 [06:38<11:31, 11.92s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44075 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 40.15 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 38%|███▊      | 35/92 [06:55<12:43, 13.39s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37253 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 30.80 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 39%|███▉      | 36/92 [07:05<11:38, 12.47s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46389 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.40 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 40%|████      | 37/92 [07:14<10:20, 11.29s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 40811 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 29.06 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 41%|████▏     | 38/92 [07:27<10:41, 11.88s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35125 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 25.95 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 42%|████▏     | 39/92 [07:41<11:03, 12.53s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36393 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.41 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 43%|████▎     | 40/92 [07:56<11:25, 13.17s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 38809 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.25 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 45%|████▍     | 41/92 [08:05<10:14, 12.05s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 45037 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.52 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 46%|████▌     | 42/92 [08:15<09:28, 11.37s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 34421 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 43.20 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 47%|████▋     | 43/92 [08:31<10:31, 12.89s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35555 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.26 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 48%|████▊     | 44/92 [08:40<09:21, 11.69s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36397 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 22.55 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 49%|████▉     | 45/92 [08:47<07:57, 10.16s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36739 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 22.62 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 50%|█████     | 46/92 [08:54<07:11,  9.38s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46287 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 35.34 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 51%|█████     | 47/92 [09:04<07:05,  9.47s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46419 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.65 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+2024-03-21 17:57:43,347 - distributed.worker - ERROR - Failed to communicate with scheduler during heartbeat.
+Traceback (most recent call last):
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nosplit_nbytes_bin = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/worker.py", line 1252, in heartbeat
+    response = await retry_operation(
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/utils_comm.py", line 455, in retry_operation
+    return await retry(
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/utils_comm.py", line 434, in retry
+    return await coro()
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/core.py", line 1395, in send_recv_from_rpc
+    return await send_recv(comm=comm, op=key, **kwargs)
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/core.py", line 1154, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/comm/tcp.py", line 236, in read
+    convert_stream_closed_error(self, e)
+  File "/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) ConnectionPool.heartbeat_worker local=tcp://127.0.0.1:43530 remote=tcp://127.0.0.1:45051>: Stream is closed
+ 52%|█████▏    | 48/92 [09:20<08:25, 11.49s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 42535 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.17 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 53%|█████▎    | 49/92 [09:29<07:34, 10.57s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36743 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 29.53 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 54%|█████▍    | 50/92 [09:37<06:52,  9.82s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35251 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 32.77 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 55%|█████▌    | 51/92 [09:57<08:54, 13.04s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 34357 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.13 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 57%|█████▋    | 52/92 [10:06<07:48, 11.71s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35179 instead
+  warnings.warn(
+ 58%|█████▊    | 53/92 [10:18<07:38, 11.75s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 38109 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 21.97 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 59%|█████▊    | 54/92 [10:35<08:25, 13.31s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 40457 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 27.59 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 60%|█████▉    | 55/92 [10:47<07:59, 12.97s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 42177 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 29.77 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 61%|██████    | 56/92 [10:55<06:50, 11.41s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 34779 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 32.35 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 62%|██████▏   | 57/92 [11:05<06:31, 11.18s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 43931 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 30.91 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 63%|██████▎   | 58/92 [11:15<06:06, 10.77s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 38997 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 25.48 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 64%|██████▍   | 59/92 [11:23<05:26,  9.90s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39335 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.99 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 65%|██████▌   | 60/92 [11:32<05:09,  9.68s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 42617 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 24.75 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 66%|██████▋   | 61/92 [11:48<06:01, 11.65s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35357 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.80 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 67%|██████▋   | 62/92 [11:57<05:27, 10.90s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44627 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 31.14 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 68%|██████▊   | 63/92 [12:06<04:53, 10.12s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 33857 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 39.90 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 70%|██████▉   | 64/92 [12:15<04:36,  9.86s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36657 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.62 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 71%|███████   | 65/92 [12:24<04:15,  9.48s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44937 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.00 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 72%|███████▏  | 66/92 [12:35<04:23, 10.12s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 42269 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.04 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 73%|███████▎  | 67/92 [12:56<05:30, 13.24s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37815 instead
+  warnings.warn(
+ 74%|███████▍  | 68/92 [13:05<04:51, 12.13s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 40951 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 18.51 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 75%|███████▌  | 69/92 [13:12<04:00, 10.45s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44983 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.79 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 76%|███████▌  | 70/92 [13:20<03:37,  9.87s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36573 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 41.24 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 77%|███████▋  | 71/92 [13:30<03:23,  9.69s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44203 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.48 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 78%|███████▊  | 72/92 [13:40<03:20, 10.05s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37957 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 25.66 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 79%|███████▉  | 73/92 [13:50<03:09,  9.97s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 38913 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 34.34 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 80%|████████  | 74/92 [13:59<02:54,  9.70s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 43475 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.68 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 82%|████████▏ | 75/92 [14:20<03:40, 12.95s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 41385 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 23.14 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 83%|████████▎ | 76/92 [14:27<03:01, 11.32s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 44391 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.33 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 84%|████████▎ | 77/92 [14:36<02:37, 10.53s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 43811 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 25.64 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 85%|████████▍ | 78/92 [14:46<02:26, 10.46s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 43795 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.83 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 86%|████████▌ | 79/92 [14:55<02:10, 10.07s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35143 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.16 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 87%|████████▋ | 80/92 [15:05<01:58,  9.85s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 34033 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 27.22 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 88%|████████▊ | 81/92 [15:14<01:45,  9.58s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36327 instead
+  warnings.warn(
+ 89%|████████▉ | 82/92 [15:23<01:34,  9.47s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 37447 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 38.03 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 90%|█████████ | 83/92 [15:46<02:02, 13.66s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 42955 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 36.47 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 91%|█████████▏| 84/92 [15:55<01:38, 12.27s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 40235 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 33.92 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 92%|█████████▏| 85/92 [16:05<01:19, 11.41s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 41277 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 24.55 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 93%|█████████▎| 86/92 [16:23<01:21, 13.56s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 35537 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 28.82 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 95%|█████████▍| 87/92 [16:31<00:58, 11.74s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 46681 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 32.52 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 96%|█████████▌| 88/92 [16:42<00:45, 11.48s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 43837 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 37.12 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 97%|█████████▋| 89/92 [16:51<00:32, 10.95s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39871 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 29.61 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 98%|█████████▊| 90/92 [16:59<00:20, 10.04s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 41411 instead
+  warnings.warn(
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/client.py:3157: UserWarning: Sending large graph of size 20.88 MiB.
+This may cause some slowdown.
+Consider scattering data ahead of time and using futures.
+  warnings.warn(
+ 99%|█████████▉| 91/92 [17:12<00:10, 10.92s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 39375 instead
+  warnings.warn(
+                                               
