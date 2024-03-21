@@ -1,0 +1,218 @@
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/distributed/node.py:182: UserWarning: Port 8787 is already in use.
+Perhaps you already have a cluster running?
+Hosting the HTTP server on port 36909 instead
+  warnings.warn(
+  0%|          | 0/92 [00:00<?, ?it/s]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:26:23,407 - distributed.nanny - WARNING - Restarting worker
+  1%|          | 1/92 [00:51<1:18:36, 51.83s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:26:57,795 - distributed.nanny - WARNING - Restarting worker
+  2%|▏         | 2/92 [01:26<1:02:21, 41.57s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:27:38,516 - distributed.nanny - WARNING - Restarting worker
+  3%|▎         | 3/92 [02:06<1:01:05, 41.19s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:28:07,170 - distributed.nanny - WARNING - Restarting worker
+  4%|▍         | 4/92 [02:35<53:08, 36.24s/it]  /depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:28:41,765 - distributed.nanny - WARNING - Restarting worker
+  5%|▌         | 5/92 [03:10<51:41, 35.64s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:29:06,784 - distributed.nanny - WARNING - Restarting worker
+  7%|▋         | 6/92 [03:35<45:54, 32.03s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:29:40,180 - distributed.nanny - WARNING - Restarting worker
+  8%|▊         | 7/92 [04:08<46:00, 32.48s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:30:10,796 - distributed.nanny - WARNING - Restarting worker
+  9%|▊         | 8/92 [04:39<44:38, 31.89s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:30:41,458 - distributed.nanny - WARNING - Restarting worker
+ 10%|▉         | 9/92 [05:09<43:34, 31.50s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:31:20,721 - distributed.nanny - WARNING - Restarting worker
+ 11%|█         | 10/92 [05:49<46:19, 33.90s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:31:56,743 - distributed.nanny - WARNING - Restarting worker
+ 12%|█▏        | 11/92 [06:25<46:38, 34.55s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:32:25,989 - distributed.nanny - WARNING - Restarting worker
+ 13%|█▎        | 12/92 [06:54<43:54, 32.94s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:33:06,130 - distributed.nanny - WARNING - Restarting worker
+ 14%|█▍        | 13/92 [07:34<46:14, 35.12s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:33:41,062 - distributed.nanny - WARNING - Restarting worker
+ 15%|█▌        | 14/92 [08:09<45:34, 35.06s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:34:21,700 - distributed.nanny - WARNING - Restarting worker
+ 16%|█▋        | 15/92 [08:50<47:09, 36.74s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:35:05,979 - distributed.nanny - WARNING - Restarting worker
+ 17%|█▋        | 16/92 [09:34<49:24, 39.01s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:35:53,519 - distributed.nanny - WARNING - Restarting worker
+ 18%|█▊        | 17/92 [10:21<51:58, 41.58s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:36:29,705 - distributed.nanny - WARNING - Restarting worker
+ 20%|█▉        | 18/92 [10:58<49:16, 39.96s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:36:48,625 - distributed.nanny - WARNING - Restarting worker
+ 21%|██        | 19/92 [11:17<40:55, 33.64s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:37:18,315 - distributed.nanny - WARNING - Restarting worker
+ 22%|██▏       | 20/92 [11:46<38:56, 32.45s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:37:56,792 - distributed.nanny - WARNING - Restarting worker
+ 23%|██▎       | 21/92 [12:25<40:32, 34.26s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:38:38,978 - distributed.nanny - WARNING - Restarting worker
+ 24%|██▍       | 22/92 [13:07<42:44, 36.64s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:39:37,518 - distributed.nanny - WARNING - Restarting worker
+ 25%|██▌       | 23/92 [14:05<49:41, 43.21s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:40:12,127 - distributed.nanny - WARNING - Restarting worker
+ 26%|██▌       | 24/92 [14:40<46:02, 40.63s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
+2024-03-21 02:40:46,278 - distributed.nanny - WARNING - Restarting worker
+ 27%|██▋       | 25/92 [15:14<43:11, 38.69s/it]/depot/cms/kernels/coffea2024/lib/python3.10/site-packages/coffea/nanoevents/methods/candidate.py:11: FutureWarning: In version 2024.7.0 (target date: 2024-06-30 11:59:59-05:00), this will be an error.
+To raise these warnings as errors (and get stack traces to find out where they're called), run
+    import warnings
+    warnings.filterwarnings("error", module="coffea.*")
+after the first `import coffea` or use `@pytest.mark.filterwarnings("error:::coffea.*")` in pytest.
+Issue: coffea.nanoevents.methods.vector will be removed and replaced with scikit-hep vector. Nanoevents schemas internal to coffea will be migrated. Otherwise please consider using that package!.
+  from coffea.nanoevents.methods import vector
